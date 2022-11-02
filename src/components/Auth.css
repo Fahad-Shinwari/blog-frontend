@@ -1,0 +1,35 @@
+.container {
+    width: 500px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rebeccapurple;
+    align-items: center;
+    margin-top: 10%;
+  }
+  h1 {
+    padding: 30px;
+    font-size: 50px;
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#18BB78;
+    height:100vh;
+  }
+  .logo-img {
+    height: 7rem;
+    margin-bottom: 10rem;
+  }
+  .logo {
+    height: 3rem;
+  }
