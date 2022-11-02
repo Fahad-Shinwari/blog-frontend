@@ -1,18 +1,18 @@
 # Functionalities
--> Login and Logout functionality
--> Login with social media handles (Gmail)
--> Posts Page to view all posts
--> Posts with filter functionality
--> Posts Details Page(View Post)
--> Add a post page
--> Like Post
--> Comment on post
--> Add Categories for post
--> All Crud functionality
--> Dynamic Categories
--> Edit a blog
--> Chat system Via Sockets
--> Notifications via sockets
+-> Login and Logout functionality.\
+-> Login with social media handles (Gmail).\
+-> Posts Page to view all posts.\
+-> Posts with filter functionality.\
+-> Posts Details Page(View Post).\
+-> Add a post page.\
+-> Like Post.\
+-> Comment on post.\
+-> Add Categories for post.\
+-> All Crud functionality.\
+-> Dynamic Categories.\
+-> Edit a blog.\
+-> Chat system Via Sockets.\
+-> Notifications via sockets.\
 
 # Getting Started with Create React App
 
